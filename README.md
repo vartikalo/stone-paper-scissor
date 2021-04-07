@@ -1,2 +1,2 @@
 # stone-paper-scissor
-A game
+A virtual hand game for two people.
